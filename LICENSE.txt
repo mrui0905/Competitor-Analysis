@@ -1,0 +1,21 @@
+Copyright (c) 2023, Crestone Capital LLC & Crestone Asset Management. All Rights Reserved.
+
+Proprietary License Agreement
+
+This software and the associated documentation files, graphics, and any other form of data (the "Software") is the proprietary property of Crestone Capital LLC & Crestone Asset Management and is confidential. Unauthorized copying of the Software, in whole or in part, and any form of reproduction or distribution, through any medium, is strictly prohibited.
+
+Terms and Conditions:
+
+1. No part of the Software may be used, copied, modified, merged, published, distributed, sublicensed, sold, or shared in any way without express written permission from Crestone Capital LLC & Crestone Asset Management.
+
+2. You may not reverse engineer, decompile, or disassemble the Software.
+
+3. This Software is provided by Crestone Capital LLC & Crestone Asset Management "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall Crestone Capital LLC & Crestone Asset Management be liable for any direct, indirect, incidental, special, exemplary, or consequential damages.
+
+4. Your access to the Software does not grant you any rights, title, or interest, and you do not acquire any intellectual property rights.
+
+5. This Agreement shall be governed by and interpreted under the laws of the State of Colorado, United States. Any legal action related to this Agreement shall be brought in the courts of the State of Colorado, United States.
+
+This Agreement constitutes the entire understanding between the parties with respect to the subject matter hereof.
+
+By accessing this Software, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms and conditions.
