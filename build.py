@@ -36,10 +36,9 @@ class Source_Form_ADV_Data:
         """
         Constructs all the necessary attributes for the Source_Form_ADV_Data object.
         """
-        self.filings_df = r"data\clean\form_adv_filings_df.csv"
-        self.filings_json = r"data\json\form_adv_filings.json"
-        self.filings_json_unicode = r"data\json\form_adv_filings_unicode.json"
-
+        self.filings_df = 'data/clean/form_adv_filings_df.csv'
+        self.filings_json = 'data/json/form_adv_filings.json'
+        self.filings_json_unicode = 'data/json/form_adv_filings_unicode.json'
 
     def get_filings(self):
         """
